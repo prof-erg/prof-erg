@@ -1,9 +1,9 @@
-### Hi there 👋
+### Boa vindas ao meu perfil 👋
 
-<!--
-**prof-erg/prof-erg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Sou Prof. Evandro,** aqui estão alguns dos meus projetos realizados durante as aulas da Alura.
+
+Aqui estão auguns projetos:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
