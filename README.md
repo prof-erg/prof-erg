@@ -1,4 +1,4 @@
-### Boa vindas ao meu perfil 👋
+### Boa vindas ao meu perfil 
 
 
 **Sou Prof. Evandro,** aqui estão alguns dos meus projetos realizados durante as aulas da Alura.
