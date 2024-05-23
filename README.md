@@ -1,8 +1,8 @@
-### Boas vindas ao meu perfil 🧔    :na
+### Boas vindas ao meu perfil 🧔    :
 
 **Sou Prof. Evandro,** aqui _estão_ **alguns** dos meus projetos realizados durante as aulas da Alura.
 
-### Meu contato 📧
+### Meu contato 📧  
 
 **evandrogarcia@prof.educacao.sp.gov.br** 
 
@@ -10,4 +10,4 @@
 
 ![](https://media.tenor.com/25gC85a7JmgAAAAM/baby-dance.gif)
 
-![](https://tenor.com/pt-BR/view/cat-driving-serious-cat-driving-focus-driving-gif-15519638)
+![](https://media.tenor.com/uB6486L-xFMAAAAM/cat-driving-serious.gif)
