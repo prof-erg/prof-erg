@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 🧔    :
+### Boas vindas ao meu perfil 🧔 🎨 
 
 **Sou Prof. Evandro,** aqui _estão_ **alguns** dos meus projetos realizados durante as aulas da Alura.
 
@@ -10,3 +10,4 @@
 
 ![](https://media.tenor.com/25gC85a7JmgAAAAM/baby-dance.gif)
 ![](https://media.tenor.com/uB6486L-xFMAAAAM/cat-driving-serious.gif)
+![](https://media.tenor.com/zwgLtxc1acsAAAAM/wow-amused.gif)
