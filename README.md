@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil 🧔      💙
+# Seja bem vindo ao meu perfil 🧔      💙
 
 **Sou Prof. Evandro,** aqui _estão_ **alguns** dos meus projetos realizados durante as aulas da Alura.
 
